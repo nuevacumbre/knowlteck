@@ -5,6 +5,8 @@ const featuredProducts = [
   "/images/hero_1.png",
   "/images/hero_2.png",
   "/images/hero_3.png",
+  "/images/hero_4.png",
+  "/images/hero_5.png",
 ];
 
 let count = 0;

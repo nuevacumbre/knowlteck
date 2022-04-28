@@ -6,6 +6,7 @@ import NavItem from "./NavItem";
 import CartNavigatorIcon from "./CartNavigatorIcon";
 import { Link } from "react-router-dom";
 
+
 export default function NavBar() {
   const [showNav, setShowNav] = useState(false);
 
@@ -13,7 +14,7 @@ export default function NavBar() {
     <nav className="md:flex justify-between items-center bg-white sticky top-0 z-20">
       <div className="flex items-center justify-between">
         <Link to="/">
-          <img className="w-42 h-14 p-2" src="/knowlteck.png" alt="knowlteck" />
+          <img className="h-24" src="/logo.png" alt="knowlteck" />
         </Link>
 
         <CartNavigatorIcon className="md:hidden flex" count={8} />
@@ -39,7 +40,7 @@ export default function NavBar() {
       >
         <NavItem content="Home" href="/" />
         <NavItem content="Shop" href="/shop" />
-        <NavItem content="Contact" href="/contact" />
+        <NavItem content="Contacto" href="/contacto" />
         <NavItem content="About" href="/about" />
         <CartNavigatorIcon className="hidden md:flex" count={8} />
       </ul>

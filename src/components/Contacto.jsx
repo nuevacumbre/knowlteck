@@ -1,10 +1,10 @@
 import React from "react";
 
-export default function Contact() {
+export default function Contacto() {
   return (
     <div className="mt-10 max-w-md mx-auto text-center font-semibold">
       <h1 className="mt-10 max-w-md mx-auto text-center text-2xl font-semibold">
-        Welcome to <span className="text-yellow-500">Contact</span> Page
+        Welcome to <span className="text-yellow-500">Contacto</span> Page
       </h1>
       <form className="mt-5 space-y-5">
         <input
