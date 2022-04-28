@@ -439,8 +439,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 .h-36 {
   height: 9rem;
 }
-.h-14 {
-  height: 3.5rem;
+.h-24 {
+  height: 6rem;
 }
 .h-10 {
   height: 2.5rem;
@@ -529,6 +529,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-blue-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+}
+.bg-red {
+  --tw-bg-opacity: 1;
+  background-color: rgb(206 43 52 / var(--tw-bg-opacity));
 }
 .bg-white {
   --tw-bg-opacity: 1;
