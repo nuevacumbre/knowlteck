@@ -1,12 +1,13 @@
 import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
+//import { slide1 } from "../../public/images/hero_1.png";
 
 const featuredProducts = [
-  "/images/hero_1.png",
+  "../../public/images/hero_1.png",
   "/images/hero_2.png",
   "/images/hero_3.png",
   "/images/hero_4.png",
-  "/images/hero_5.png",
+  "../../public/images/hero_5.png",
 ];
 
 let count = 0;

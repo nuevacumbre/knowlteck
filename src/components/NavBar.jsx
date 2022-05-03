@@ -6,6 +6,8 @@ import NavItem from "./NavItem";
 import CartNavigatorIcon from "./CartNavigatorIcon";
 import { Link } from "react-router-dom";
 
+import logo from "../assets/logo.png"
+
 
 export default function NavBar() {
   const [showNav, setShowNav] = useState(false);
@@ -14,7 +16,7 @@ export default function NavBar() {
     <nav className="md:flex justify-between items-center bg-white sticky top-0 z-20">
       <div className="flex items-center justify-between">
         <Link to="/">
-          <img className="h-24" src="/logo.png" alt="knowlteck" />
+          <img className="h-24" src={logo} alt="knowlteck" />
         </Link>
 
         <CartNavigatorIcon className="md:hidden flex" count={8} />
