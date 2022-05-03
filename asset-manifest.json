@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/knowlteck/static/css/main.445bf3ee.css",
+    "main.js": "/knowlteck/static/js/main.02876a91.js",
+    "index.html": "/knowlteck/index.html",
+    "main.445bf3ee.css.map": "/knowlteck/static/css/main.445bf3ee.css.map",
+    "main.02876a91.js.map": "/knowlteck/static/js/main.02876a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445bf3ee.css",
+    "static/js/main.02876a91.js"
+  ]
+}
