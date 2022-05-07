@@ -1,15 +1,19 @@
 import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
-//import { slide1 } from "../../public/images/hero_1.png";
+import  slide1  from "../assets/hero_1.png";
+import  slide2  from "../assets/hero_2.png";
+import  slide3  from "../assets/hero_3.png";
+import  slide4  from "../assets/hero_4.png";
+import  slide5  from "../assets/hero_5.png";
 
 const featuredProducts = [
-  "../../public/images/hero_1.png",
-  "/images/hero_2.png",
-  "/images/hero_3.png",
-  "/images/hero_4.png",
-  "../../public/images/hero_5.png",
+    slide1,
+    slide2,
+    slide3,
+    slide4,
+    slide5,
 ];
-
+//console.log("holaaaa");
 let count = 0;
 let slideInterval;
 export default function Slider() {
