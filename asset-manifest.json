@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/knowlteck/static/css/main.445bf3ee.css",
-    "main.js": "/knowlteck/static/js/main.34c9af8d.js",
+    "main.css": "/knowlteck/static/css/main.07ccf562.css",
+    "main.js": "/knowlteck/static/js/main.97ebb9a5.js",
+    "static/media/banner_right.png": "/knowlteck/static/media/banner_right.b2ecfc254536594dd996.png",
+    "static/media/banner_left.png": "/knowlteck/static/media/banner_left.b785c245f7017a57e4b6.png",
+    "static/media/hero_1.png": "/knowlteck/static/media/hero_1.b0d90b7b7a78697f1234.png",
+    "static/media/hero_3.png": "/knowlteck/static/media/hero_3.2223d53a87e1cc795060.png",
+    "static/media/hero_4.png": "/knowlteck/static/media/hero_4.b0efdd6ef09fe65ae82b.png",
+    "static/media/hero_2.png": "/knowlteck/static/media/hero_2.969b4ee8c3b397e27283.png",
+    "static/media/hero_5.png": "/knowlteck/static/media/hero_5.a0d2f4015e70ecbc041f.png",
     "static/media/logo.png": "/knowlteck/static/media/logo.1387cf8bffc65d8b7590.png",
     "index.html": "/knowlteck/index.html",
-    "main.445bf3ee.css.map": "/knowlteck/static/css/main.445bf3ee.css.map",
-    "main.34c9af8d.js.map": "/knowlteck/static/js/main.34c9af8d.js.map"
+    "main.07ccf562.css.map": "/knowlteck/static/css/main.07ccf562.css.map",
+    "main.97ebb9a5.js.map": "/knowlteck/static/js/main.97ebb9a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.445bf3ee.css",
-    "static/js/main.34c9af8d.js"
+    "static/css/main.07ccf562.css",
+    "static/js/main.97ebb9a5.js"
   ]
 }
